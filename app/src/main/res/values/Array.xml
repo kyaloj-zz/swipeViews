@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="devices">
+        <item>Android</item>
+        <item>windows</item>
+        <item>iphone</item>
+    </string-array>
+
+    <string-array name="device_description">
+        <item>Android-One of the open source OS for phones</item>
+        <item>windows- Not open and not widely used either. </item>
+        <item>iphone-good OS but closed for minority few</item>
+    </string-array>
+
+</resources>
